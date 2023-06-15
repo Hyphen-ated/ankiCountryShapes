@@ -200,6 +200,7 @@
         "Lithuania.svg",
         "Luxembourg.svg",
         "Macao.svg",
+        "Macau_locator_map.svg.png",
         "Madagascar.svg",
         "Malawi.svg",
         "Malaysia.svg",
@@ -2042,7 +2043,7 @@
             "fields": [
                 "<img src=\"Macao.svg\">",
                 "Macau (Macao)",
-                "<img src=\"ug-map-south_korea.png\">"
+                "<img src=\"Macau_locator_map.svg.png\">"
             ],
             "guid": "g<nW>Snm>T",
             "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
