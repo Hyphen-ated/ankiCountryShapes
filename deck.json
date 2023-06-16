@@ -249,7 +249,7 @@
         "Qatar.svg",
         "Romania.svg",
         "Russian Federation.svg",
-        "Rwanda.svg",
+        "Rwanda-80e68f8035622f799edc9cd02a41a7dd4e852d93.svg",
         "Réunion.svg",
         "Saint Barthélemy.svg",
         "Saint Helena, Ascension and Tristan da Cunha.svg",
@@ -2569,7 +2569,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"Rwanda.svg\">",
+                "<img src=\"Rwanda-80e68f8035622f799edc9cd02a41a7dd4e852d93.svg\">",
                 "Rwanda",
                 "<img src=\"ug-map-rwanda.png\">"
             ],
