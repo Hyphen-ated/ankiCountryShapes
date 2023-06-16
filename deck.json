@@ -124,7 +124,7 @@
         "Costa Rica.svg",
         "Croatia.svg",
         "Cuba.svg",
-        "CuraÃ§ao.svg",
+        "Curaçao.svg",
         "Cyprus.svg",
         "Czech Republic.svg",
         "Côte d'Ivoire.svg",
@@ -1227,7 +1227,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"CuraÃ§ao.svg\">",
+                "<img src=\"Curaçao.svg\">",
                 "Curaçao",
                 "<img src=\"ug-map-curacao.png\">"
             ],
