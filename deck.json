@@ -426,6 +426,7 @@
         "ug-map-kiribati.png",
         "ug-map-kuwait.png",
         "ug-map-kyrgyzstan.png",
+        "ug-map-laos.png",
         "ug-map-latvia.png",
         "ug-map-lebanon.png",
         "ug-map-lesotho.png",
@@ -1944,7 +1945,7 @@
             "fields": [
                 "<img src=\"Lao People's Democratic Republic.svg\">",
                 "Laos (Lao People's Democratic Republic)",
-                "<img src=\"ug-map-south_korea.png\">"
+                "<img src=\"ug-map-laos.png\">"
             ],
             "guid": "DGuFKPGnt/",
             "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
