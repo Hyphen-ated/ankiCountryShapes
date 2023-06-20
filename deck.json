@@ -35,7 +35,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 300
+                "perDay": 10
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -48,7 +48,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 300
+                "perDay": 100
             },
             "reviewOrder": 0,
             "timer": 0
@@ -56,7 +56,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 10,
     "extendRev": 0,
     "media_files": [
         "500px-Australia_on_the_globe_(Christmas_Island_special)_(Southeast_Asia_centered).svg.png",
@@ -80,7 +80,7 @@
         "Aruba.svg",
         "Australia.svg",
         "Australia_in_its_region_(Heard_Island_and_McDonald_Islands_special).svg",
-        "Austria.svg",
+        "Austria-2e16a57ae8c077e7b2f3c139ff6d62e0c91299c2.svg",
         "Azerbaijan.svg",
         "Bahamas.svg",
         "Bahrain.svg",
@@ -140,6 +140,7 @@
         "Estonia.svg",
         "Eswatini.svg",
         "Ethiopia.svg",
+        "Europe-Jersey.svg.png",
         "Falkland Islands (Malvinas).svg",
         "Faroe Islands.svg",
         "Fiji.svg",
@@ -151,6 +152,7 @@
         "French Southern Territories.svg",
         "Gabon.svg",
         "Gambia.svg",
+        "Gaza.svg",
         "Georgia.svg",
         "Germany.svg",
         "Ghana.svg",
@@ -182,6 +184,7 @@
         "Italy.svg",
         "Jamaica.svg",
         "Japan.svg",
+        "Jersey.svg",
         "Jordan.svg",
         "Kazakhstan.svg",
         "Kenya.svg",
@@ -199,11 +202,10 @@
         "Liechtenstein.svg",
         "Lithuania.svg",
         "Luxembourg.svg",
-        "Macao.svg",
         "Macau_locator_map.svg.png",
         "Madagascar.svg",
         "Malawi.svg",
-        "Malaysia.svg",
+        "Malaysia-444364669503d5ad6daa112a4b4c17ba41ece332.svg",
         "Maldives.svg",
         "Mali.svg",
         "Malta.svg",
@@ -273,12 +275,11 @@
         "Slovenia.svg",
         "Solomon Islands.svg",
         "Somalia.svg",
-        "South Africa.svg",
         "South Georgia and the South Sandwich Islands.svg",
         "South Sudan.svg",
         "Spain.svg",
         "Sri Lanka.svg",
-        "Sudan.svg",
+        "Sudan-76958b6a26e54a61e9d265d048b77afbe889f159.svg",
         "Suriname.svg",
         "Svalbard and Jan Mayen.svg",
         "Sweden.svg",
@@ -312,10 +313,13 @@
         "Wallis and Futuna.svg",
         "Western Sahara.svg",
         "Westernsaharamap.png",
-        "Yemen.svg",
+        "Yemen-cfaecdc43a09bee4998407a967bc62a4f9401657.svg",
         "Zambia.svg",
         "Zimbabwe.svg",
         "bonaire_sint_saba.png",
+        "gazamap.png",
+        "macau.svg",
+        "southafrica.svg",
         "ug-map-afghanistan.png",
         "ug-map-aland_islands.png",
         "ug-map-albania.png",
@@ -766,7 +770,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"Austria.svg\">",
+                "<img src=\"Austria-2e16a57ae8c077e7b2f3c139ff6d62e0c91299c2.svg\">",
                 "Austria",
                 "<img src=\"ug-map-austria.png\">"
             ],
@@ -910,7 +914,7 @@
             "__type__": "Note",
             "fields": [
                 "<img src=\"Bonaire, Sint Eustatius and Saba.svg\">",
-                "Bonaire (, Sint Eustatius, and Saba) (Caribbean Netherlands)",
+                "Bonaire (, Sint Eustatius, and Saba) (Netherlands Antilles)",
                 "<img src=\"bonaire_sint_saba.png\">"
             ],
             "guid": "I2>4ul$zqa",
@@ -2042,7 +2046,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"Macao.svg\">",
+                "<img src=\"macau.svg\">",
                 "Macau (Macao)",
                 "<img src=\"Macau_locator_map.svg.png\">"
             ],
@@ -2075,7 +2079,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"Malaysia.svg\">",
+                "<img src=\"Malaysia-444364669503d5ad6daa112a4b4c17ba41ece332.svg\">",
                 "Malaysia",
                 "<img src=\"ug-map-malaysia.png\">"
             ],
@@ -2812,7 +2816,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"South Africa.svg\">",
+                "<img src=\"southafrica.svg\">",
                 "South Africa",
                 "<img src=\"ug-map-south_africa.png\">"
             ],
@@ -2867,7 +2871,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"Sudan.svg\">",
+                "<img src=\"Sudan-76958b6a26e54a61e9d265d048b77afbe889f159.svg\">",
                 "Sudan",
                 "<img src=\"ug-map-sudan.png\">"
             ],
@@ -3230,7 +3234,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"Yemen.svg\">",
+                "<img src=\"Yemen-cfaecdc43a09bee4998407a967bc62a4f9401657.svg\">",
                 "Yemen",
                 "<img src=\"ug-map-yemen.png\">"
             ],
@@ -3268,6 +3272,28 @@
                 "<img src=\"ug-map-aland_islands.png\">"
             ],
             "guid": "OM9L!Uy2Js",
+            "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Jersey.svg\">",
+                "Jersey",
+                "<img src=\"Europe-Jersey.svg.png\">"
+            ],
+            "guid": "Nj7aRq-R#(",
+            "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"Gaza.svg\">",
+                "Gaza Strip",
+                "<img src=\"gazamap.png\">"
+            ],
+            "guid": "sUO_AN+=fv",
             "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
             "tags": []
         }
