@@ -327,7 +327,7 @@
         "micronesia-7f56d7530de01590432d028a8e803d6d8de9b40a.svg",
         "northernmariana.svg",
         "southafrica.svg",
-        "tuvalu.svg",
+        "tuvalu-527a300eb30ab11b0bd0d679e4244b38ec1c6ff6.svg",
         "ug-map-afghanistan.png",
         "ug-map-aland_islands.png",
         "ug-map-albania.png",
@@ -3308,7 +3308,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"tuvalu.svg\">",
+                "<img src=\"tuvalu-527a300eb30ab11b0bd0d679e4244b38ec1c6ff6.svg\">",
                 "Tuvalu",
                 "<img src=\"1280px-Tuvalu_on_the_globe_(Polynesia_centered).svg.png\">"
             ],
