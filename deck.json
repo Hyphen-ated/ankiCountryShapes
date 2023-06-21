@@ -142,6 +142,7 @@
         "Eswatini.svg",
         "Ethiopia.svg",
         "Europe-Jersey.svg.png",
+        "Europe-Republic_of_Kosovo.svg",
         "Falkland Islands (Malvinas).svg",
         "Faroe Islands.svg",
         "Fiji.svg",
@@ -215,6 +216,7 @@
         "Mauritius.svg",
         "Mayotte.svg",
         "Mexico.svg",
+        "Micronesia_on_the_globe_(small_islands_magnified)_(Polynesia_centered).svg",
         "Moldova, Republic of.svg",
         "Monaco.svg",
         "Mongolia.svg",
@@ -236,6 +238,7 @@
         "Niue.svg",
         "Norfolk Island.svg",
         "North Macedonia.svg",
+        "Northern_Mariana_Islands_on_the_globe_(Southeast_Asia_centered)_(small_islands_magnified).svg",
         "Norway.svg",
         "Oman.svg",
         "Pakistan.svg",
@@ -319,7 +322,10 @@
         "Zimbabwe.svg",
         "bonaire_sint_saba.png",
         "gazamap.png",
+        "kosovo.svg",
         "macau.svg",
+        "micronesia-7f56d7530de01590432d028a8e803d6d8de9b40a.svg",
+        "northernmariana.svg",
         "southafrica.svg",
         "tuvalu.svg",
         "ug-map-afghanistan.png",
@@ -3307,6 +3313,39 @@
                 "<img src=\"1280px-Tuvalu_on_the_globe_(Polynesia_centered).svg.png\">"
             ],
             "guid": "naAm+V%c7c",
+            "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"kosovo.svg\">",
+                "Kosovo",
+                "<img src=\"Europe-Republic_of_Kosovo.svg\">"
+            ],
+            "guid": "jiC^D-{7Mx",
+            "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"micronesia-7f56d7530de01590432d028a8e803d6d8de9b40a.svg\">",
+                "Micronesia (Federated States of)",
+                "<img src=\"Micronesia_on_the_globe_(small_islands_magnified)_(Polynesia_centered).svg\">"
+            ],
+            "guid": "Lcc,rC?S%k",
+            "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"northernmariana.svg\">",
+                "Northern Mariana Islands",
+                "<img src=\"Northern_Mariana_Islands_on_the_globe_(Southeast_Asia_centered)_(small_islands_magnified).svg\">"
+            ],
+            "guid": "sNGO6!dSs:",
             "note_model_uuid": "313eb1f9-0b58-11ee-bfeb-f02f74cbeaf9",
             "tags": []
         }
